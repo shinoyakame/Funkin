@@ -264,6 +264,57 @@ class Character extends FlxSprite
 				playAnim('idle');
 
 				flipX = true;
+			
+			case 'lighter':
+				tex = FlxAtlasFrames.fromSparrow('assets/images/Lighter_FNF_assets.png', 'assets/images/Lighter_FNF_assets.xml');
+				frames = tex;
+				animation.addByPrefix('idle', "Lighter Idle Dance", 24);
+				animation.addByPrefix('singUP', 'lighter Up note0', 24, false);
+				animation.addByPrefix('singUP-alt', 'lighter Up note0', 24, false);
+				animation.addByPrefix('singDOWN', 'Lighter Down Note0', 24, false);
+				animation.addByPrefix('singDOWN-alt', 'Lighter Down Note0', 24, false);
+				if (isPlayer)
+				{
+					animation.addByPrefix('singLEFT', 'Lighter NOTE LEFT0', 24, false);
+					animation.addByPrefix('singRIGHT', 'Lighter Note Right0', 24, false);
+					animation.addByPrefix('singLEFT-alt', 'Lighter Note LEFT0', 24, false);
+					animation.addByPrefix('singRIGHT-alt', 'Lighter NOTE Right0', 24, false);
+					animation.addByPrefix('singRIGHTmiss', 'Lighter Note Right Miss', 24, false);
+					animation.addByPrefix('singLEFTmiss', 'Lighter NOTE LEFT miss', 24, false);
+				}
+				else
+				{
+					// Need to be flipped! REDO THIS LATER!
+					animation.addByPrefix('singLEFT', 'Lighter Note Right0', 24, false);
+					animation.addByPrefix('singRIGHT', 'Lighter NOTE LEFT0', 24, false);
+					animation.addByPrefix('singLEFT-alt', 'Lighter Note Right0', 24, false);
+					animation.addByPrefix('singRIGHT-alt', 'Lighter NOTE LEFT0', 24, false);
+					animation.addByPrefix('singRIGHTmiss', 'Lighter NOTE LEFT miss', 24, false);
+					animation.addByPrefix('singLEFTmiss', 'Lighter Note Right Miss', 24, false);
+				}
+
+				animation.addByPrefix('singUPmiss', 'lighter Up note miss', 24);
+				animation.addByPrefix('singDOWNmiss', 'Lighter Down Note MISS', 24);
+
+				addOffset('idle');
+				addOffset("singUP", 0, 0);
+				addOffset("singRIGHT", 0, 0);
+				addOffset("singLEFT", 0, 0);
+				addOffset("singDOWN", 0, 0);
+				addOffset("singUPmiss", 0, 0);
+				addOffset("singRIGHTmiss", 0, 0);
+				addOffset("singLEFTmiss", 0, 0);
+				addOffset("singDOWNmiss", 0, 0);
+				addOffset("singUP-alt", 0, 0);
+				addOffset("singRIGHT-alt", 0, 0);
+				addOffset("singLEFT-alt", 0, 0);
+				addOffset("singDOWN-alt", 0, 0);
+
+				playAnim('idle');
+
+				setGraphicSize(Std.int(width * 0.8));
+
+				flipX = true;
 
 			case 'bf':
 				var tex = FlxAtlasFrames.fromSparrow('assets/images/BOYFRIEND.png', 'assets/images/BOYFRIEND.xml');
@@ -470,7 +521,7 @@ class Character extends FlxSprite
 				antialiasing = false;
 
 			case 'parents-christmas':
-				frames = FlxAtlasFrames.fromSparrow('assets/images/christmas/mom_dad_christmas_assets.png',
+				frames = FlxAtlasFrames.fromSparrow('assets/images/christmas/.png',
 					'assets/images/christmas/mom_dad_christmas_assets.xml');
 				animation.addByPrefix('idle', 'Parent Christmas Idle', 24, false);
 				animation.addByPrefix('singUP', 'Parent Up Note Dad', 24, false);
