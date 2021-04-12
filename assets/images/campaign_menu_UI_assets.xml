@@ -18,8 +18,8 @@
 	<SubTexture name="arrow push right0000" x="848" y="374" width="41" height="74"/>
 	<SubTexture name="arrow right0000" x="899" y="374" width="47" height="85"/>
 	<SubTexture name="lock0000" x="956" y="374" width="67" height="93"/>
-	<SubTexture name="tutorial selected0000" x="0" y="477" width="443" height="82"/>
-	<SubTexture name="tutorial selected0001" x="453" y="477" width="443" height="82"/>
+	<!-- <SubTexture name="tutorial selected0000" x="0" y="477" width="443" height="82"/>
+	<SubTexture name="tutorial selected0001" x="453" y="477" width="443" height="82"/> -->
 	<SubTexture name="week 50000" x="0" y="569" width="364" height="91"/>
 	<SubTexture name="week 50001" x="374" y="569" width="364" height="91"/>
 	<SubTexture name="week2 select0000" x="0" y="670" width="361" height="87"/>
