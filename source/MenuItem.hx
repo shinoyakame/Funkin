@@ -26,7 +26,7 @@ class MenuItem extends FlxSpriteGroup
 		week.animation.addByPrefix('week3', "Week 4 press", 24);
 		week.animation.addByPrefix('week4', "week 5", 24);
 		week.animation.addByPrefix('week5', "Week 6", 24);
-		week.animation.addByPrefix('week6', "Week 3 press", 24);
+		week.animation.addByPrefix('week6', "Week L", 24);
 		add(week);
 
 		week.animation.play('week' + weekNum);

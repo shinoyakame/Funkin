@@ -26,7 +26,7 @@ class StoryMenuState extends MusicBeatState
 		['Satin-Panties', "High", "Milf"],
 		['Cocoa', 'Eggnog', 'Winter-Horrorland'],
 		['Senpai', 'Roses', 'Thorns'],
-		['Dadbattle', 'South', "Blammed", "Milf", 'Winter-Horrorland', 'Thorns']
+		['Dadbattle', "Blammed", "Milf"]
 	];
 	var curDifficulty:Int = 1;
 
@@ -39,7 +39,7 @@ class StoryMenuState extends MusicBeatState
 		['mom', 'bf', 'gf'],
 		['parents-christmas', 'bf', 'gf'],
 		['senpai', 'bf', 'gf'],
-		['pico', 'bf', 'gf']
+		['lighter', 'bf', 'gf']
 	];
 
 	var weekNames:Array<String> = [
@@ -49,7 +49,7 @@ class StoryMenuState extends MusicBeatState
 		"MOMMY MUST MURDER",
 		"RED SNOW",
 		"hating simulator ft. moawling",
-		"Stage X"
+		"Lil' Angel Fox"
 	];
 
 	var txtWeekTitle:FlxText;
@@ -413,6 +413,10 @@ class StoryMenuState extends MusicBeatState
 
 			case 'dad':
 				grpWeekCharacters.members[0].offset.set(120, 200);
+				grpWeekCharacters.members[0].setGraphicSize(Std.int(grpWeekCharacters.members[0].width * 1));
+
+			case 'lighter':
+				grpWeekCharacters.members[0].offset.set(120, 100);
 				grpWeekCharacters.members[0].setGraphicSize(Std.int(grpWeekCharacters.members[0].width * 1));
 
 			default:
