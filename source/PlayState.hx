@@ -558,7 +558,7 @@ class PlayState extends MusicBeatState
 			case 'parents-christmas':
 				dad.x -= 500;
 			case 'lighter':
-				dad.x -= 200;
+				dad.x -= 0;
 				dad.y += 200;
 			case 'senpai':
 				dad.x += 150;
@@ -575,6 +575,13 @@ class PlayState extends MusicBeatState
 		}
 
 		boyfriend = new Boyfriend(770, 450, SONG.player1);
+
+		switch (SONG.player1)
+		{
+			case 'lighter':
+				boyfriend.x += 0;
+				boyfriend.y -= 150;
+		}
 
 		// REPOSITIONING PER STAGE
 		switch (curStage)
