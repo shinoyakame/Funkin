@@ -558,8 +558,8 @@ class PlayState extends MusicBeatState
 			case 'parents-christmas':
 				dad.x -= 500;
 			case 'lighter':
-				dad.x -= 0;
-				dad.y += 200;
+				dad.x += 100;
+				dad.y += 220;
 			case 'senpai':
 				dad.x += 150;
 				dad.y += 360;

@@ -33,12 +33,12 @@ class StoryMenuState extends MusicBeatState
 	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true];
 
 	var weekCharacters:Array<Dynamic> = [
-		['dad', 'bf', 'gf'],
-		['spooky', 'bf', 'gf'],
-		['pico', 'bf', 'gf'],
-		['mom', 'bf', 'gf'],
-		['parents-christmas', 'bf', 'gf'],
-		['senpai', 'bf', 'gf'],
+		['dad', 'lighter', 'gf'],
+		['spooky', 'lighter', 'gf'],
+		['pico', 'lighter', 'gf'],
+		['mom', 'lighter', 'gf'],
+		['parents-christmas', 'lighter', 'gf'],
+		['senpai', 'lighter', 'gf'],
 		['lighter', 'bf', 'gf']
 	];
 
@@ -423,6 +423,16 @@ class StoryMenuState extends MusicBeatState
 				grpWeekCharacters.members[0].offset.set(100, 100);
 				grpWeekCharacters.members[0].setGraphicSize(Std.int(grpWeekCharacters.members[0].width * 1));
 				// grpWeekCharacters.members[0].updateHitbox();
+		}
+
+		switch (grpWeekCharacters.members[1].animation.curAnim.name)
+		{
+			case 'lighter':
+				grpWeekCharacters.members[1].offset.set(100, 100);
+				grpWeekCharacters.members[1].setGraphicSize(Std.int(grpWeekCharacters.members[1].width * 0.65));
+			default:
+				grpWeekCharacters.members[1].offset.set(100, 20);
+				grpWeekCharacters.members[1].setGraphicSize(Std.int(grpWeekCharacters.members[1].width * 0.75));
 		}
 
 		var stringThing:Array<String> = weekData[curWeek];
