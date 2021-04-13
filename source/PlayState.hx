@@ -600,8 +600,15 @@ class PlayState extends MusicBeatState
 				boyfriend.x += 320;
 				dad.y -= 80;
 			case 'school':
-				boyfriend.x += 200;
-				boyfriend.y += 220;
+				switch (SONG.player1)
+				{
+					case 'lighter':
+						boyfriend.x -= 100;
+						boyfriend.y += 80;
+					default:
+						boyfriend.x += 200;
+						boyfriend.y += 220;
+				}
 				gf.x += 180;
 				gf.y += 300;
 			case 'schoolEvil':
@@ -613,8 +620,15 @@ class PlayState extends MusicBeatState
 				add(evilTrail);
 				// evilTrail.scrollFactor.set(1.1, 1.1);
 
-				boyfriend.x += 200;
-				boyfriend.y += 220;
+				switch (SONG.player1)
+				{
+					case 'lighter':
+						boyfriend.x -= 100;
+						boyfriend.y += 80;
+					default:
+						boyfriend.x += 200;
+						boyfriend.y += 220;
+				}
 				gf.x += 180;
 				gf.y += 300;
 		}
@@ -1401,11 +1415,23 @@ class PlayState extends MusicBeatState
 					case 'mall':
 						camFollow.y = boyfriend.getMidpoint().y - 200;
 					case 'school':
-						camFollow.x = boyfriend.getMidpoint().x - 200;
-						camFollow.y = boyfriend.getMidpoint().y - 200;
+						switch(SONG.player1){
+							case 'lighter':
+								camFollow.x = boyfriend.getMidpoint().x - 200;
+								camFollow.y = boyfriend.getMidpoint().y - 100;
+							default:
+								camFollow.x = boyfriend.getMidpoint().x - 200;
+								camFollow.y = boyfriend.getMidpoint().y - 200;
+						}
 					case 'schoolEvil':
-						camFollow.x = boyfriend.getMidpoint().x - 200;
-						camFollow.y = boyfriend.getMidpoint().y - 200;
+						switch(SONG.player1){
+							case 'lighter':
+								camFollow.x = boyfriend.getMidpoint().x - 200;
+								camFollow.y = boyfriend.getMidpoint().y;
+							default:
+								camFollow.x = boyfriend.getMidpoint().x - 200;
+								camFollow.y = boyfriend.getMidpoint().y - 200;
+						}
 				}
 
 				if (SONG.song.toLowerCase() == 'tutorial')
