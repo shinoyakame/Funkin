@@ -292,7 +292,7 @@ class Character extends FlxSprite
 					animation.addByPrefix('singRIGHTmiss', 'Lighter NOTE LEFT miss', 24, false);
 					animation.addByPrefix('singLEFTmiss', 'Lighter Note Right Miss', 24, false);
 				// }
-
+				animation.addByPrefix('hey', 'Lighter HEY!!', 24);
 				animation.addByPrefix('singUPmiss', 'lighter Up note miss', 24);
 				animation.addByPrefix('singDOWNmiss', 'Lighter Down Note MISS', 24);
 

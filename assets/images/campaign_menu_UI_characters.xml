@@ -174,4 +174,30 @@
 	<SubTexture name="Lighter idle Black Lines00014" x="6900" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
 	<SubTexture name="Lighter idle Black Lines00015" x="6900" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
 	<SubTexture name="Lighter idle Black Lines00016" x="6900" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0000" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0001" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0002" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0003" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0004" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0005" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0006" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0007" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0008" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0009" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0010" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0011" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0012" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0013" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0014" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0015" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0016" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0017" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0018" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0019" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0020" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0021" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0022" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0023" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0024" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
+	<SubTexture name="Lighter HEY!!0025" x="7400" y="3010" width="500" height="590" frameX="0" frameY="0" frameWidth="500" frameHeight="590"/>
 </TextureAtlas>

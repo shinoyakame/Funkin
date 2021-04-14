@@ -292,7 +292,12 @@ class StoryMenuState extends MusicBeatState
 				FlxG.sound.play('assets/sounds/confirmMenu' + TitleState.soundExt);
 
 				grpWeekText.members[curWeek].week.animation.resume();
-				grpWeekCharacters.members[1].animation.play('bfConfirm');
+				switch(grpWeekCharacters.members[1].animation.curAnim.name){
+					case 'lighter':
+						grpWeekCharacters.members[1].animation.play('lighterConfirm');
+					default:
+						grpWeekCharacters.members[1].animation.play('bfConfirm');
+				}
 				stopspamming = true;
 			}
 
