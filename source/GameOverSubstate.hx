@@ -30,6 +30,11 @@ class GameOverSubstate extends MusicBeatSubstate
 				daBf = 'bf';
 		}
 
+		switch(PlayState.SONG.player1){
+			case 'lighter':
+				daBf = 'lighter';
+		}
+
 		super();
 
 		Conductor.songPosition = 0;

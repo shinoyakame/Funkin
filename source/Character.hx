@@ -273,28 +273,20 @@ class Character extends FlxSprite
 				animation.addByPrefix('singUP-alt', 'lighter Up note0', 24, false);
 				animation.addByPrefix('singDOWN', 'Lighter Down Note0', 24, false);
 				animation.addByPrefix('singDOWN-alt', 'Lighter Down Note0', 24, false);
-				// if (isPlayer)
-				// {
-				// 	animation.addByPrefix('singLEFT', 'Lighter NOTE LEFT0', 24, false);
-				// 	animation.addByPrefix('singRIGHT', 'Lighter Note Right0', 24, false);
-				// 	animation.addByPrefix('singLEFT-alt', 'Lighter Note LEFT0', 24, false);
-				// 	animation.addByPrefix('singRIGHT-alt', 'Lighter NOTE Right0', 24, false);
-				// 	animation.addByPrefix('singRIGHTmiss', 'Lighter Note Right Miss', 24, false);
-				// 	animation.addByPrefix('singLEFTmiss', 'Lighter NOTE LEFT miss', 24, false);
-				// }
-				// else
-				// {
-					// Need to be flipped! REDO THIS LATER!
-					animation.addByPrefix('singLEFT', 'Lighter Note Right0', 24, false);
-					animation.addByPrefix('singRIGHT', 'Lighter NOTE LEFT0', 24, false);
-					animation.addByPrefix('singLEFT-alt', 'Lighter Note Right0', 24, false);
-					animation.addByPrefix('singRIGHT-alt', 'Lighter NOTE LEFT0', 24, false);
-					animation.addByPrefix('singRIGHTmiss', 'Lighter NOTE LEFT miss', 24, false);
-					animation.addByPrefix('singLEFTmiss', 'Lighter Note Right Miss', 24, false);
-				// }
+				animation.addByPrefix('singLEFT', 'Lighter Note Right0', 24, false);
+				animation.addByPrefix('singRIGHT', 'Lighter NOTE LEFT0', 24, false);
+				animation.addByPrefix('singLEFT-alt', 'Lighter Note Right0', 24, false);
+				animation.addByPrefix('singRIGHT-alt', 'Lighter NOTE LEFT0', 24, false);
+				animation.addByPrefix('singRIGHTmiss', 'Lighter NOTE LEFT miss', 24, false);
+				animation.addByPrefix('singLEFTmiss', 'Lighter Note Right Miss', 24, false);
 				animation.addByPrefix('hey', 'Lighter HEY!!', 24);
 				animation.addByPrefix('singUPmiss', 'lighter Up note miss', 24);
 				animation.addByPrefix('singDOWNmiss', 'Lighter Down Note MISS', 24);
+
+				animation.addByPrefix('firstDeath', "Lighter dies", 24, false);
+				animation.addByPrefix('deathLoop', "Lighter Dead Loop", 24, true);
+				animation.addByPrefix('deathConfirm', "Lighter Dead confirm", 24, false);
+				animation.addByPrefix('scared', 'Lighter idle shaking', 24);
 
 				addOffset('idle');
 				addOffset("singUP", 0, 0);
