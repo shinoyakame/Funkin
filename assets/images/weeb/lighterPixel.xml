@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lighterPixel.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lighter Down Note0000" x="230" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note0001" x="230" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note0002" x="230" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note0003" x="380" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note0004" x="380" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note0005" x="380" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note0006" x="305" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note0007" x="305" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note0008" x="380" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note0009" x="305" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note0010" x="380" y="190" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0000" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0001" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0002" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0003" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0004" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0005" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0006" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0007" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0008" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0009" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0010" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0011" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0012" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0013" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0014" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0015" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0016" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0017" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0018" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0019" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0020" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0021" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0022" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0023" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Down Note MISS0024" x="305" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0000" x="5" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0001" x="5" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0002" x="5" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0003" x="80" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0004" x="80" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0005" x="155" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0006" x="155" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0007" x="155" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0008" x="230" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0009" x="230" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0010" x="230" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0011" x="305" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0012" x="305" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0013" x="380" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0014" x="380" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter Idle Dance0015" x="380" y="0" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0000" x="230" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0001" x="230" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0002" x="230" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0003" x="380" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0004" x="380" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0005" x="305" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0006" x="305" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0007" x="305" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0008" x="380" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0009" x="305" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0010" x="380" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0011" x="305" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0012" x="380" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0013" x="305" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0014" x="380" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0015" x="305" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT0016" x="380" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0000" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0001" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0002" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0003" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0004" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0005" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0006" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0007" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0008" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0009" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0010" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0011" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0012" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0013" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0014" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0015" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0016" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0017" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0018" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0019" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0020" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0021" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0022" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0023" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter NOTE LEFT miss0024" x="380" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0000" x="5" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0001" x="5" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0002" x="5" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0003" x="80" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0004" x="155" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0005" x="155" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0006" x="155" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0007" x="80" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0008" x="80" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0009" x="155" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0010" x="80" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0011" x="155" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0012" x="80" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0013" x="155" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0014" x="80" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0015" x="155" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right0016" x="80" y="95" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0000" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0001" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0002" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0003" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0004" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0005" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0006" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0007" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0008" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0009" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0010" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0011" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0012" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0013" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0014" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0015" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0016" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0017" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0018" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0019" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0020" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0021" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0022" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0023" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Note Right Miss0024" x="155" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note0000" x="5" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0001" x="5" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0002" x="5" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0003" x="155" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0004" x="155" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0005" x="80" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0006" x="155" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0007" x="80" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0008" x="155" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0009" x="80" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0010" x="155" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0011" x="80" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0012" x="155" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note0013" x="80" y="190" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0000" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0001" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0002" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0003" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0004" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0005" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0006" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0007" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0008" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0009" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0010" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0011" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0012" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0013" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0014" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0015" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0016" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0017" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0018" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0019" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0020" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0021" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0022" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0023" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="lighter Up note miss0024" x="230" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0000" x="5" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0001" x="5" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0002" x="5" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0003" x="5" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0004" x="5" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0005" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0006" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0007" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0008" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0009" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0010" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0011" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0012" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0013" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0014" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0015" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0016" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0017" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0018" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0019" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0020" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0021" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0022" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0023" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0024" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter HEY!!0025" x="80" y="285" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0000" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0001" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0002" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0003" x="5" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0004" x="5" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0005" x="5" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0006" x="80" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0007" x="80" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0008" x="80" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0009" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0010" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0011" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0012" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0013" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0014" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0015" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead Loop0016" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0000" x="155" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0001" x="155" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0002" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0003" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0004" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0005" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0006" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0007" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0008" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0009" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0010" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0011" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0012" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0013" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0014" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0015" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0016" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0017" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0018" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0019" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0020" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0021" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0022" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0023" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0024" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0025" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0026" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0027" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0028" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0029" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0030" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0031" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0032" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter Dead confirm0033" x="230" y="485" width="75" height="95"/>
+	<SubTexture name="Lighter dies0000" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0001" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0002" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0003" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0004" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0005" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0006" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0007" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0008" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0009" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0010" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0011" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0012" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0013" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0014" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0015" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0016" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0017" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0018" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0019" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0020" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0021" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0022" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0023" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0024" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0025" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0026" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0027" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0028" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0029" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0030" x="5" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0031" x="80" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0032" x="80" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0033" x="80" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0034" x="80" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0035" x="80" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0036" x="155" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0037" x="155" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0038" x="155" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0039" x="155" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0040" x="155" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0041" x="230" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0042" x="230" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0043" x="230" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0044" x="230" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0045" x="230" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0046" x="305" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0047" x="305" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0048" x="305" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0049" x="305" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0050" x="305" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0051" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0052" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0053" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0054" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0055" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0056" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter dies0057" x="380" y="387" width="75" height="95"/>
+	<SubTexture name="Lighter idle shaking0000" x="305" y="485" width="74" height="94" frameX="-1" frameY="-1" frameWidth="75" frameHeight="95"/>
+	<SubTexture name="Lighter idle shaking0001" x="305" y="485" width="73" height="94" frameX="-2" frameY="-1" frameWidth="75" frameHeight="95"/>
+	<SubTexture name="Lighter idle shaking0002" x="380" y="485" width="74" height="95" frameX="-1" frameY="0" frameWidth="75" frameHeight="95"/>
+	<SubTexture name="Lighter idle shaking0003" x="380" y="485" width="75" height="95"/>
+</TextureAtlas>

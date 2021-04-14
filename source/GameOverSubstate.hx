@@ -33,6 +33,8 @@ class GameOverSubstate extends MusicBeatSubstate
 		switch(PlayState.SONG.player1){
 			case 'lighter':
 				daBf = 'lighter';
+			case 'lighter-pixel':
+				daBf = 'lighter-pixel';
 		}
 
 		super();

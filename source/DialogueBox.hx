@@ -69,10 +69,19 @@ class DialogueBox extends FlxSpriteGroup
 		add(portraitLeft);
 		portraitLeft.visible = false;
 
-		portraitRight = new FlxSprite(0, 40);
-		portraitRight.frames = FlxAtlasFrames.fromSparrow('assets/images/weeb/bfPortrait.png', 'assets/images/weeb/bfPortrait.xml');
-		portraitRight.animation.addByPrefix('enter', 'Boyfriend portrait enter', 24, false);
-		portraitRight.setGraphicSize(Std.int(portraitRight.width * PlayState.daPixelZoom * 0.9));
+		switch(PlayState.SONG.player1){
+			case 'lighter-pixel':
+				portraitRight = new FlxSprite(0, 40);
+				portraitRight.frames = FlxAtlasFrames.fromSparrow('assets/images/weeb/lighterPortrait.png', 'assets/images/weeb/lighterPortrait.xml');
+				portraitRight.animation.addByPrefix('enter', 'Lighter portrait enter', 24, false);
+				portraitRight.setGraphicSize(Std.int(portraitRight.width * PlayState.daPixelZoom * 0.9));
+			default:
+				portraitRight = new FlxSprite(0, 40);
+				portraitRight.frames = FlxAtlasFrames.fromSparrow('assets/images/weeb/bfPortrait.png', 'assets/images/weeb/bfPortrait.xml');
+				portraitRight.animation.addByPrefix('enter', 'Boyfriend portrait enter', 24, false);
+				portraitRight.setGraphicSize(Std.int(portraitRight.width * PlayState.daPixelZoom * 0.9));
+		}
+
 		portraitRight.updateHitbox();
 		portraitRight.scrollFactor.set();
 		add(portraitRight);

@@ -400,6 +400,51 @@ class Character extends FlxSprite
 				playAnim('idle');
 
 				flipX = true;
+				
+			case 'lighter-pixel':
+				tex = FlxAtlasFrames.fromSparrow('assets/images/weeb/lighterPixel.png', 'assets/images/weeb/lighterPixel.xml');
+				frames = tex;
+				animation.addByPrefix('idle', "Lighter Idle Dance", 24);
+				animation.addByPrefix('singUP', 'lighter Up note0', 24, false);
+				animation.addByPrefix('singUP-alt', 'lighter Up note0', 24, false);
+				animation.addByPrefix('singDOWN', 'Lighter Down Note0', 24, false);
+				animation.addByPrefix('singDOWN-alt', 'Lighter Down Note0', 24, false);
+				animation.addByPrefix('singLEFT', 'Lighter Note Right0', 24, false);
+				animation.addByPrefix('singRIGHT', 'Lighter NOTE LEFT0', 24, false);
+				animation.addByPrefix('singLEFT-alt', 'Lighter Note Right0', 24, false);
+				animation.addByPrefix('singRIGHT-alt', 'Lighter NOTE LEFT0', 24, false);
+				animation.addByPrefix('singRIGHTmiss', 'Lighter NOTE LEFT miss', 24, false);
+				animation.addByPrefix('singLEFTmiss', 'Lighter Note Right Miss', 24, false);
+				animation.addByPrefix('hey', 'Lighter HEY!!', 24);
+				animation.addByPrefix('singUPmiss', 'lighter Up note miss', 24);
+				animation.addByPrefix('singDOWNmiss', 'Lighter Down Note MISS', 24);
+
+				animation.addByPrefix('firstDeath', "Lighter dies", 24, false);
+				animation.addByPrefix('deathLoop', "Lighter Dead Loop", 24, true);
+				animation.addByPrefix('deathConfirm', "Lighter Dead confirm", 24, false);
+				animation.addByPrefix('scared', 'Lighter idle shaking', 24);
+
+				addOffset('idle');
+				addOffset("singUP", 0, 0);
+				addOffset("singRIGHT", 0, 0);
+				addOffset("singLEFT", 0, 0);
+				addOffset("singDOWN", 0, 0);
+				addOffset("singUPmiss", 0, 0);
+				addOffset("singRIGHTmiss", 0, 0);
+				addOffset("singLEFTmiss", 0, 0);
+				addOffset("singDOWNmiss", 0, 0);
+				addOffset("singUP-alt", 0, 0);
+				addOffset("singRIGHT-alt", 0, 0);
+				addOffset("singLEFT-alt", 0, 0);
+				addOffset("singDOWN-alt", 0, 0);
+
+				playAnim('idle');
+
+				setGraphicSize(Std.int(width * 0.8 * 6));
+
+				antialiasing = false;
+				flipX = true;
+
 			case 'bf-pixel':
 				frames = FlxAtlasFrames.fromSparrow('assets/images/weeb/bfPixel.png', 'assets/images/weeb/bfPixel.xml');
 				animation.addByPrefix('idle', 'BF IDLE', 24, false);

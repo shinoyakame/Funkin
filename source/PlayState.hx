@@ -560,6 +560,9 @@ class PlayState extends MusicBeatState
 			case 'lighter':
 				dad.x += 100;
 				dad.y += 220;
+			case 'lighter-pixel':
+				dad.x += 100;
+				dad.y += 220;
 			case 'senpai':
 				dad.x += 150;
 				dad.y += 360;
@@ -605,6 +608,9 @@ class PlayState extends MusicBeatState
 					case 'lighter':
 						boyfriend.x -= 100;
 						boyfriend.y += 80;
+					case 'lighter-pixel':
+						boyfriend.x += 30;
+						boyfriend.y += 150;
 					default:
 						boyfriend.x += 200;
 						boyfriend.y += 220;
@@ -625,6 +631,9 @@ class PlayState extends MusicBeatState
 					case 'lighter':
 						boyfriend.x -= 100;
 						boyfriend.y += 80;
+					case 'lighter-pixel':
+						boyfriend.x += 30;
+						boyfriend.y += 150;
 					default:
 						boyfriend.x += 200;
 						boyfriend.y += 220;
@@ -1419,6 +1428,9 @@ class PlayState extends MusicBeatState
 							case 'lighter':
 								camFollow.x = boyfriend.getMidpoint().x - 200;
 								camFollow.y = boyfriend.getMidpoint().y - 100;
+							case 'lighter-pixel':
+								camFollow.x = boyfriend.getMidpoint().x - 200;
+								camFollow.y = boyfriend.getMidpoint().y - 100;
 							default:
 								camFollow.x = boyfriend.getMidpoint().x - 200;
 								camFollow.y = boyfriend.getMidpoint().y - 200;
@@ -1428,6 +1440,9 @@ class PlayState extends MusicBeatState
 							case 'lighter':
 								camFollow.x = boyfriend.getMidpoint().x - 200;
 								camFollow.y = boyfriend.getMidpoint().y;
+							case 'lighter-pixel':
+								camFollow.x = boyfriend.getMidpoint().x - 200;
+								camFollow.y = boyfriend.getMidpoint().y - 100;
 							default:
 								camFollow.x = boyfriend.getMidpoint().x - 200;
 								camFollow.y = boyfriend.getMidpoint().y - 200;
