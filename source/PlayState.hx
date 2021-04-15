@@ -2364,6 +2364,16 @@ class PlayState extends MusicBeatState
 			}
 		}
 
+		if ((curBeat % 8 == 7 || curBeat == 2) && curSong == 'Gunstorm')
+		{
+			if(curBeat == 103){
+				boyfriend.playAnim('hey', true);
+			}
+			if(curBeat == 2){
+				dad.playAnim('hey', true);
+			}
+		}
+
 		switch (curStage)
 		{
 			case 'school':

@@ -82,9 +82,7 @@ class FreeplayState extends MusicBeatState
 
 		if (StoryMenuState.weekUnlocked[6] || isDebug)
 		{
-			songs.push('Bright');
-			songs.push('Execution');
-			songs.push('Winged');
+			songs.push('Gunstorm');
 		}
 
 		// LOAD MUSIC
